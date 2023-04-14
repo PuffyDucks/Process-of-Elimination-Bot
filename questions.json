@@ -1,0 +1,144 @@
+{
+	"question_list":[
+		{
+			"question":"Ivy Leagues",
+			"wrong":"Northwestern",
+			"correct":[
+				"UPenn",
+				"Princeton",
+				"Columbia",
+				"Yale",
+				"Brown",
+				"Harvard",
+				"Dartmouth",
+				"Cornell"
+			]
+		},
+		{
+			"question":"Girl's Generation Members",
+			"wrong":"Sohee",
+			"correct":[
+				"Taeyeon",
+				"Sunny",
+				"Tiffany",
+				"Hyoyeon",
+				"Yuri",
+				"Sooyoung",
+				"Yoona",
+				"Seohyun"
+			]
+		},
+		{
+			"question":"Invertebrates",
+			"wrong":"Snake",
+			"correct":[
+				"Sea Urchin",
+				"Fly",
+				"Crawfish",
+				"Centipede",
+				"Sea Star",
+				"Scallop",
+				"Spider",
+				"Snail"
+			]
+		},
+		{
+			"question":"Books In The Old Testament",
+			"wrong":"The Gospel of John",
+			"correct":[
+				"Esther",
+				"Daniel",
+				"Exodus",
+				"Leviticus",
+				"Numbers",
+				"Deuteronomy",
+				"Song of Solomon",
+				"Job"
+			]
+		},
+		{
+			"question":"Jupiter Moons",
+			"wrong":"Phobos",
+			"correct":[
+				"Europa",
+				"Ganymede",
+				"Io",
+				"Callisto",
+				"Thebe",
+				"Adrastea",
+				"Metis",
+				"Amalthea"
+			]
+		},
+		{
+			"question":"Andy Warhol Artworks",
+			"wrong":"Rose Ring",
+			"correct":[
+				"Shot Diptych",
+				"Campbell's Soup Cans",
+				"Banana",
+				"Gun",
+				"Green Coca-Cola Bottles",
+				"Eight Elvis",
+				"Silver Car Crash",
+				"Cow Wallpaper"
+			]
+		},
+		{
+			"question":"Elements On The Periodic Table",
+			"wrong":"Delirium",
+			"correct":[
+				"Osmium",
+				"Tanalum",
+				"Rutherfordium",
+				"Nihonium",
+				"Americium",
+				"Californium",
+				"Einsteinium",
+				"Fermium"
+			]
+		},
+		{
+			"question":"Minecraft Biomes",
+			"wrong":"Eroded End",
+			"correct":[
+				"Sunflower Plains",
+				"Beach",
+				"Meadow",
+				"Lukewarm Ocean",
+				"Snowy Slopes",
+				"Windswept Savanna",
+				"Sparse Jungle",
+				"Birch Forest"
+			]
+		},
+		{
+			"question":"The Noble Eightfold Path",
+			"wrong":"Right Faithfulness",
+			"correct":[
+				"Right Understanding",
+				"Right Thought",
+				"Right Speech",
+				"Right Action",
+				"Right Livelihood",
+				"Right Effort",
+				"Right Mindfulness",
+				"Right Concentration"
+			]
+		},
+		{
+			"question":"Rice Cakes",
+			"wrong":"Num Poh Peay",
+			"correct":[
+				"Dango",
+				"Lontong",
+				"Idli",
+				"Tangyuan",
+				"Puto",
+				"Bánh bò",
+				"Num Plae Ai",
+				"Tteok"
+			]
+		}
+	]
+}
